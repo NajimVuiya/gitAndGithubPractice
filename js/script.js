@@ -47,3 +47,7 @@ const box1Elm = document.queryCommandIndeterm('.box-1');
     git newBranch -- not main
 
 */
+// something will be revert 
+// adding ammend right now
+// adding new thing
+
