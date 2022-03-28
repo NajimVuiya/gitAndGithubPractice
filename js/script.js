@@ -1,4 +1,4 @@
-
+const box1Elm = document.queryCommandIndeterm('.box-1');
 
 /*
     == git commmand ==
